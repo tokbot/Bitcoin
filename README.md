@@ -29,7 +29,7 @@ You can send tokbot a private message with the following private commands:
 You can withdraw your 🅱️itcoin to any ethereum wallet that supports ERC20 tokens. In order to do so you need to set up a watch contract in your wallet with the following info:
 
     Token address: 0xF5afDF8Bf72e292107a18dAcF88dAa6831334Ad1
-    ABI:
+    ABI: https://pastebin.com/raw/etbx2919
 
 After setting up the watch contract, you'll need to confirm your withdrawal address with the tipbot. To do so, send a private message with the command 'confirm'
 
@@ -44,7 +44,7 @@ The small amount of ETH is used to cover the cost of the withdrawal transaction.
 If you aquire 🅱️itcoin outside of reddit you can deposit them into your reddit tipbot account by interacting with the smart contract directly. To do so, first set up a watch contract for 🅱️itcoin in your ethereum wallet using the following info:
 
     Token address: 0xF5afDF8Bf72e292107a18dAcF88dAa6831334Ad1
-    ABI:
+    ABI: https://pastebin.com/raw/etbx2919
 
 Then use the Deposit function on the 🅱️itcoin contract with your reddit name and the amount to deposit. Deposits will be processed periodically and will appear in your tipbot account when successfully confirmed.
 
