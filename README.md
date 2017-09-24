@@ -8,7 +8,7 @@ You can acquire 🅱️itcoin in two ways:
 
 - Redeem: **Redditors who submitted to /r/dankmemes before August 12th, 2017 can redeem 1 million 🅱️itcoin**. To do this, use the 'redeem' command as described below. Up to 50 Billion 🅱️itcoin can be redeemed by redditors.
 
-- Tip: Users of /r/dankmemes can tip 🅱️itcoin to each other using the tip command described below. If someone tips you 🅱️itcoin, you will immediately have the pills available to tip others on reddit.
+- Tip: Users of /r/dankmemes can tip 🅱️itcoin to each other using the tip command described below. If someone tips you 🅱️itcoin, you will immediately have the 🅱️TC available to tip others on reddit.
 
 # How do I interact with the bot?
 
